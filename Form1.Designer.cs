@@ -65,6 +65,7 @@
             // 
             this.contraseñaTxt.Location = new System.Drawing.Point(83, 101);
             this.contraseñaTxt.Name = "contraseñaTxt";
+            this.contraseñaTxt.PasswordChar = '*';
             this.contraseñaTxt.Size = new System.Drawing.Size(100, 20);
             this.contraseñaTxt.TabIndex = 3;
             // 
